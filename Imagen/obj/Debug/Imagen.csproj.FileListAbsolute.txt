@@ -1,0 +1,8 @@
+C:\Users\Nahue\Documents\SharpDevelop Projects\Imagen\Imagen\bin\Debug\Imagen.exe.config
+C:\Users\Nahue\Documents\SharpDevelop Projects\Imagen\Imagen\bin\Debug\Imagen.exe
+C:\Users\Nahue\Documents\SharpDevelop Projects\Imagen\Imagen\bin\Debug\Imagen.pdb
+C:\Users\Nahue\Documents\SharpDevelop Projects\Imagen\Imagen\obj\Debug\Imagen.csprojResolveAssemblyReference.cache
+C:\Users\Nahue\Documents\SharpDevelop Projects\Imagen\Imagen\obj\Debug\Imagen.MainForm.resources
+C:\Users\Nahue\Documents\SharpDevelop Projects\Imagen\Imagen\obj\Debug\Imagen.csproj.GenerateResource.Cache
+C:\Users\Nahue\Documents\SharpDevelop Projects\Imagen\Imagen\obj\Debug\Imagen.exe
+C:\Users\Nahue\Documents\SharpDevelop Projects\Imagen\Imagen\obj\Debug\Imagen.pdb
